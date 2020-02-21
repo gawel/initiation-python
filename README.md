@@ -31,3 +31,17 @@ https://www.hackinscience.org/exercises/
 https://github.com/exercism/python/tree/master/exercises/
 
 https://gitlab.com/e2li/cours-python/-/tree/master/saison-1/sources/
+
+# Ressources
+
+Conférence sur la documentation Python en Français :
+
+* https://pyvideo.org/pycon-fr-2016/traduction-de-la-doc-de-python-et-linternationalisation.html
+
+Vidéo PyConFR :
+
+* https://pyvideo.org/events/pycon-fr-2013.html
+* https://pyvideo.org/events/pycon-fr-2015.html
+* https://pyvideo.org/events/pycon-fr-2016.html
+* https://pyvideo.org/events/pycon-fr-2017.html
+* https://pyvideo.org/events/pycon-fr-2018.html
